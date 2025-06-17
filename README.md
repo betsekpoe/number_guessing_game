@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-A simple command-line game where the player tries to guess a randomly generated number within a certain range.
+A simple command-line game in python where the player tries to guess a randomly generated number within a certain range.
 The game gives hints like "Warmer!" or "Colder" until the correct number is guessed.
 
 ## Features
